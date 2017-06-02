@@ -1,5 +1,5 @@
 name = Nasko
 
-size = 100
+size = 185
 
 email = nasonasevski@gmail.com
